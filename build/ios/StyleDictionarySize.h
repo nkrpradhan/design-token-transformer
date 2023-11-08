@@ -3,12 +3,13 @@
 //
 
 // Do not edit directly
-// Generated on Mon, 08 May 2023 07:37:37 GMT
+// Generated on Wed, 08 Nov 2023 19:45:18 GMT
 
 
 #import <Foundation/Foundation.h>
 
 
+extern float const TypographyBodyVariableFontFontWeight;
 extern float const TypographyBodyH3FontWeight;
 extern float const TypographyBodyH4StrikeThroughFontWeight;
 extern float const TypographyBodyItalicFontWeight;
